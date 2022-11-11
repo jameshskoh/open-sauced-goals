@@ -1,63 +1,63 @@
 [
   {
     "full_name": "danvega/building-rest-apis-spring-boot",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 39
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 22393,
+    "stargazers_count": 22403,
     "open_issues_count": 79,
-    "forks_count": 763
+    "forks_count": 764
   },
   {
     "full_name": "karan/Projects",
-    "stargazers_count": 40340,
+    "stargazers_count": 40365,
     "open_issues_count": 85,
-    "forks_count": 10413
+    "forks_count": 10415
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 202272,
+    "stargazers_count": 202511,
     "open_issues_count": 339,
-    "forks_count": 36430
+    "forks_count": 36474
   },
   {
     "full_name": "expressvpn/lightway-core",
-    "stargazers_count": 362,
+    "stargazers_count": 364,
     "open_issues_count": 4,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "alexanderskulikov/discrete-math-python-scripts",
-    "stargazers_count": 140,
+    "stargazers_count": 141,
     "open_issues_count": 0,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "robertmartin8/PyPortfolioOpt",
-    "stargazers_count": 3103,
-    "open_issues_count": 42,
-    "forks_count": 754
+    "stargazers_count": 3111,
+    "open_issues_count": 44,
+    "forks_count": 756
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 74186,
-    "open_issues_count": 9280,
-    "forks_count": 9994
+    "stargazers_count": 74311,
+    "open_issues_count": 9278,
+    "forks_count": 10006
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 28544,
-    "open_issues_count": 197,
-    "forks_count": 1195
+    "stargazers_count": 28584,
+    "open_issues_count": 193,
+    "forks_count": 1197
   },
   {
     "full_name": "moyix/fauxpilot",
-    "stargazers_count": 6947,
-    "open_issues_count": 41,
-    "forks_count": 290
+    "stargazers_count": 6979,
+    "open_issues_count": 43,
+    "forks_count": 295
   },
   {
     "full_name": "fommil/matrix-toolkits-java",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "vuejs/core",
-    "stargazers_count": 33559,
-    "open_issues_count": 791,
-    "forks_count": 6038
+    "stargazers_count": 33629,
+    "open_issues_count": 746,
+    "forks_count": 6053
   },
   {
     "full_name": "jgthms/bulma",
-    "stargazers_count": 46329,
-    "open_issues_count": 325,
-    "forks_count": 3904
+    "stargazers_count": 46337,
+    "open_issues_count": 328,
+    "forks_count": 3906
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 197383,
-    "open_issues_count": 1069,
-    "forks_count": 40931
+    "stargazers_count": 197536,
+    "open_issues_count": 1080,
+    "forks_count": 40974
   },
   {
     "full_name": "jwenjian/visitor-badge",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "awesomedata/awesome-public-datasets",
-    "stargazers_count": 51765,
-    "open_issues_count": 118,
-    "forks_count": 9007
+    "stargazers_count": 51804,
+    "open_issues_count": 121,
+    "forks_count": 9011
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 224881,
+    "stargazers_count": 225104,
     "open_issues_count": 56,
-    "forks_count": 24394
+    "forks_count": 24408
   },
   {
     "full_name": "chengqing97/jc-dictionary",
@@ -139,32 +139,32 @@
   },
   {
     "full_name": "cvxpy/cvxpy",
-    "stargazers_count": 4184,
-    "open_issues_count": 158,
-    "forks_count": 870
+    "stargazers_count": 4193,
+    "open_issues_count": 159,
+    "forks_count": 871
   },
   {
     "full_name": "olmallet81/GALGO-2.0",
-    "stargazers_count": 192,
+    "stargazers_count": 193,
     "open_issues_count": 10,
     "forks_count": 49
   },
   {
     "full_name": "giacomelli/GeneticSharp",
-    "stargazers_count": 1013,
+    "stargazers_count": 1016,
     "open_issues_count": 6,
-    "forks_count": 292
+    "forks_count": 293
   },
   {
     "full_name": "handcraftsman/GeneticAlgorithmsWithPython",
-    "stargazers_count": 1033,
+    "stargazers_count": 1034,
     "open_issues_count": 4,
-    "forks_count": 428
+    "forks_count": 430
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 168951,
-    "open_issues_count": 2379,
-    "forks_count": 87443
+    "stargazers_count": 169012,
+    "open_issues_count": 2382,
+    "forks_count": 87456
   }
 ]
