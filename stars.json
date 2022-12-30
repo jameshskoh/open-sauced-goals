@@ -1,51 +1,51 @@
 [
   {
     "full_name": "academind/react-complete-guide-code",
-    "stargazers_count": 4450,
+    "stargazers_count": 4473,
     "open_issues_count": 83,
-    "forks_count": 10810
+    "forks_count": 10859
   },
   {
     "full_name": "vitalif/grive2",
-    "stargazers_count": 1429,
-    "open_issues_count": 166,
-    "forks_count": 145
+    "stargazers_count": 1430,
+    "open_issues_count": 165,
+    "forks_count": 146
   },
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 18643,
+    "stargazers_count": 18658,
     "open_issues_count": 145,
-    "forks_count": 2345
+    "forks_count": 2347
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 143522,
+    "stargazers_count": 143685,
     "open_issues_count": 315,
-    "forks_count": 46020
+    "forks_count": 46067
   },
   {
     "full_name": "danvega/building-rest-apis-spring-boot",
     "stargazers_count": 47,
     "open_issues_count": 0,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 22582,
+    "stargazers_count": 22612,
     "open_issues_count": 81,
-    "forks_count": 781
+    "forks_count": 784
   },
   {
     "full_name": "karan/Projects",
-    "stargazers_count": 40727,
+    "stargazers_count": 40778,
     "open_issues_count": 84,
-    "forks_count": 10445
+    "forks_count": 10444
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 206396,
+    "stargazers_count": 206779,
     "open_issues_count": 342,
-    "forks_count": 37068
+    "forks_count": 37115
   },
   {
     "full_name": "expressvpn/lightway-core",
@@ -61,26 +61,26 @@
   },
   {
     "full_name": "robertmartin8/PyPortfolioOpt",
-    "stargazers_count": 3211,
-    "open_issues_count": 29,
+    "stargazers_count": 3214,
+    "open_issues_count": 31,
     "forks_count": 780
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 75842,
-    "open_issues_count": 9487,
-    "forks_count": 10175
+    "stargazers_count": 75933,
+    "open_issues_count": 9459,
+    "forks_count": 10182
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 29139,
-    "open_issues_count": 173,
-    "forks_count": 1229
+    "stargazers_count": 29189,
+    "open_issues_count": 167,
+    "forks_count": 1231
   },
   {
     "full_name": "fauxpilot/fauxpilot",
-    "stargazers_count": 7333,
-    "open_issues_count": 26,
+    "stargazers_count": 7346,
+    "open_issues_count": 25,
     "forks_count": 323
   },
   {
@@ -97,8 +97,8 @@
   },
   {
     "full_name": "lessthanoptimal/ejml",
-    "stargazers_count": 472,
-    "open_issues_count": 30,
+    "stargazers_count": 471,
+    "open_issues_count": 29,
     "forks_count": 108
   },
   {
@@ -109,45 +109,45 @@
   },
   {
     "full_name": "vuejs/core",
-    "stargazers_count": 34405,
-    "open_issues_count": 812,
-    "forks_count": 6235
+    "stargazers_count": 34449,
+    "open_issues_count": 814,
+    "forks_count": 6240
   },
   {
     "full_name": "jgthms/bulma",
-    "stargazers_count": 46581,
+    "stargazers_count": 46597,
     "open_issues_count": 336,
-    "forks_count": 3924
+    "forks_count": 3923
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 199601,
-    "open_issues_count": 1143,
-    "forks_count": 41456
+    "stargazers_count": 199742,
+    "open_issues_count": 1141,
+    "forks_count": 41480
   },
   {
     "full_name": "jwenjian/visitor-badge",
-    "stargazers_count": 740,
+    "stargazers_count": 742,
     "open_issues_count": 1,
     "forks_count": 193
   },
   {
     "full_name": "dwyl/hits",
     "stargazers_count": 313,
-    "open_issues_count": 29,
+    "open_issues_count": 28,
     "forks_count": 66
   },
   {
     "full_name": "awesomedata/awesome-public-datasets",
-    "stargazers_count": 52346,
+    "stargazers_count": 52372,
     "open_issues_count": 121,
     "forks_count": 9092
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 231307,
-    "open_issues_count": 52,
-    "forks_count": 24633
+    "stargazers_count": 231886,
+    "open_issues_count": 53,
+    "forks_count": 24665
   },
   {
     "full_name": "chengqing97/jc-dictionary",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "OlittleRer/Code",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 0,
     "forks_count": 48
   },
   {
     "full_name": "cvxpy/cvxpy",
-    "stargazers_count": 4253,
-    "open_issues_count": 161,
-    "forks_count": 880
+    "stargazers_count": 4255,
+    "open_issues_count": 156,
+    "forks_count": 881
   },
   {
     "full_name": "olmallet81/GALGO-2.0",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "giacomelli/GeneticSharp",
-    "stargazers_count": 1035,
+    "stargazers_count": 1036,
     "open_issues_count": 5,
     "forks_count": 296
   }
