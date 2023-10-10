@@ -1,33 +1,33 @@
 [
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 33979,
-    "open_issues_count": 1798,
-    "forks_count": 3048
+    "stargazers_count": 34035,
+    "open_issues_count": 1818,
+    "forks_count": 3061
   },
   {
     "full_name": "mementum/backtrader",
-    "stargazers_count": 11651,
-    "open_issues_count": 45,
-    "forks_count": 3511
+    "stargazers_count": 11666,
+    "open_issues_count": 46,
+    "forks_count": 3516
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 61589,
-    "open_issues_count": 846,
-    "forks_count": 5160
+    "stargazers_count": 61711,
+    "open_issues_count": 858,
+    "forks_count": 5199
   },
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 35827,
-    "open_issues_count": 22,
-    "forks_count": 1140
+    "stargazers_count": 35861,
+    "open_issues_count": 23,
+    "forks_count": 1141
   },
   {
     "full_name": "openjdk/jdk21",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 0,
-    "forks_count": 54
+    "forks_count": 56
   },
   {
     "full_name": "openjdk/jdk17",
@@ -43,39 +43,39 @@
   },
   {
     "full_name": "Atlas-OS/Atlas",
-    "stargazers_count": 8207,
+    "stargazers_count": 8226,
     "open_issues_count": 4,
-    "forks_count": 369
+    "forks_count": 371
   },
   {
     "full_name": "JetBrains/intellij-community",
-    "stargazers_count": 15838,
-    "open_issues_count": 241,
-    "forks_count": 4997
+    "stargazers_count": 15851,
+    "open_issues_count": 242,
+    "forks_count": 4999
   },
   {
     "full_name": "academind/react-complete-guide-code",
-    "stargazers_count": 6009,
+    "stargazers_count": 6019,
     "open_issues_count": 98,
-    "forks_count": 13118
+    "forks_count": 13121
   },
   {
     "full_name": "vitalif/grive2",
     "stargazers_count": 1490,
     "open_issues_count": 173,
-    "forks_count": 144
+    "forks_count": 143
   },
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 19851,
+    "stargazers_count": 19858,
     "open_issues_count": 146,
-    "forks_count": 2506
+    "forks_count": 2507
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 158495,
+    "stargazers_count": 158685,
     "open_issues_count": 310,
-    "forks_count": 50577
+    "forks_count": 50618
   },
   {
     "full_name": "danvega/building-rest-apis-spring-boot",
@@ -85,61 +85,61 @@
   },
   {
     "full_name": "kilimchoi/engineering-blogs",
-    "stargazers_count": 25202,
-    "open_issues_count": 104,
-    "forks_count": 1009
+    "stargazers_count": 25223,
+    "open_issues_count": 106,
+    "forks_count": 1014
   },
   {
     "full_name": "karan/Projects",
-    "stargazers_count": 42971,
+    "stargazers_count": 42982,
     "open_issues_count": 84,
-    "forks_count": 10481
+    "forks_count": 10482
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 231007,
-    "open_issues_count": 393,
-    "forks_count": 40684
+    "stargazers_count": 231215,
+    "open_issues_count": 394,
+    "forks_count": 40718
   },
   {
     "full_name": "expressvpn/lightway-core",
     "stargazers_count": 463,
-    "open_issues_count": 5,
+    "open_issues_count": 3,
     "forks_count": 57
   },
   {
     "full_name": "alexanderskulikov/discrete-math-python-scripts",
-    "stargazers_count": 233,
+    "stargazers_count": 235,
     "open_issues_count": 0,
     "forks_count": 98
   },
   {
     "full_name": "robertmartin8/PyPortfolioOpt",
-    "stargazers_count": 3777,
-    "open_issues_count": 56,
+    "stargazers_count": 3779,
+    "open_issues_count": 57,
     "forks_count": 861
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 85882,
-    "open_issues_count": 9582,
-    "forks_count": 11366
+    "stargazers_count": 85984,
+    "open_issues_count": 9592,
+    "forks_count": 11384
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 31366,
-    "open_issues_count": 141,
-    "forks_count": 1451
+    "stargazers_count": 31378,
+    "open_issues_count": 147,
+    "forks_count": 1455
   },
   {
     "full_name": "fauxpilot/fauxpilot",
-    "stargazers_count": 13216,
+    "stargazers_count": 13242,
     "open_issues_count": 63,
-    "forks_count": 580
+    "forks_count": 578
   },
   {
     "full_name": "fommil/matrix-toolkits-java",
-    "stargazers_count": 359,
+    "stargazers_count": 358,
     "open_issues_count": 7,
     "forks_count": 104
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "lessthanoptimal/ejml",
-    "stargazers_count": 519,
+    "stargazers_count": 518,
     "open_issues_count": 28,
     "forks_count": 116
   },
@@ -159,24 +159,24 @@
     "full_name": "optimatika/ojAlgo",
     "stargazers_count": 439,
     "open_issues_count": 0,
-    "forks_count": 232
+    "forks_count": 237
   },
   {
     "full_name": "vuejs/core",
-    "stargazers_count": 40568,
-    "open_issues_count": 1206,
-    "forks_count": 7398
+    "stargazers_count": 40607,
+    "open_issues_count": 1200,
+    "forks_count": 7410
   },
   {
     "full_name": "jgthms/bulma",
-    "stargazers_count": 47565,
-    "open_issues_count": 380,
+    "stargazers_count": 47568,
+    "open_issues_count": 381,
     "forks_count": 3994
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 213838,
-    "open_issues_count": 1504,
-    "forks_count": 45041
+    "stargazers_count": 213974,
+    "open_issues_count": 1525,
+    "forks_count": 45075
   }
 ]
